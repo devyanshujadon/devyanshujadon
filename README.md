@@ -8,3 +8,4 @@ Programmer and Technologist.
 <a href="https://twitter.com/DevyanshuJadon">Twitter</a> 
 <a href="https://www.linkedin.com/in/devyanshu-jadon/">LinkedIn</a> 
 <a href="https://www.devyanshu.live/">Website</a>
+<a href="https://www.bento.me/devyanshu">Bento Link</a>
